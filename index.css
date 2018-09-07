@@ -1,0 +1,29 @@
+.parent {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+}
+
+.left {
+  background: red;
+}
+
+.right {
+  background: blue;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
+form {
+  text-align: center;
+}
+
